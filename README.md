@@ -12,8 +12,8 @@
 - **Logical Deletion:** Safe deletion of orders (hidden from main views without losing database records) with restoration capabilities.
 
 ## Tech Stack
-- **Frontend:** [Insert your frontend tech, e.g., React / Vue / HTML&CSS]
-- **Backend:** [Insert your backend tech, e.g., Node.js / Python / Java]
+- **Frontend:** Vue.js
+- **Backend:** PHP (Laravel)
 - **Database:** PostgreSQL
 
 ## Contributors
